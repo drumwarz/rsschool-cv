@@ -1,1 +1,1 @@
-# rsschool-cv
+https://drumwarz.github.io/rsschool-cv/cv
