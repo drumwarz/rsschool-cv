@@ -32,7 +32,7 @@ function multiply(a, b){
 ## __Courses__ 
 
 - [Udemy](https://www.udemy.com/course/javascript_full/)
-- [FreeCodeCamp](https://www.youtube.com/c/FreelancerLifeStyle)
+- [FreelancerLifeStyle](https://www.youtube.com/c/FreelancerLifeStyle)
 - [RS Schools] «JavaScript/Front-end. Stage 0» (in progress)
 
 ## __Languages__
