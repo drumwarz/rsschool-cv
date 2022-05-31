@@ -12,7 +12,7 @@
                     
 ## __About Me__
 
-*I always like to learn something new for myself, set goals and try to achieve them. I have good interpersonal and communication skills. I work well in a team and I learn and develop new skills very quickly. I hope my diligence and courses will help me gain useful knowledge.*
+*At the moment I work as a barber and at the same time I study front-end development. I always like to learn something new for myself, set goals and try to achieve them. I have good communication skills. I hope my diligence and courses will help me gain useful knowledge and improve in the field of development*
 
 
 ## __Skills__
