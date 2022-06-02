@@ -1,6 +1,5 @@
 # __Ihar Sapeha__
 
-
 ## __Contacts Info__
 
 * __Location:__ Minsk, Belarus
