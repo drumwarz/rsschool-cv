@@ -1,3 +1,5 @@
+![Photo](/rsschool-cv/img/IMG_8703.jpg)
+
 # __Ihar Sapeha__
 
 
