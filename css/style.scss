@@ -1,0 +1,82 @@
+/* 
+&display=swap
+&subset=cyrillic-ext 
+*/
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Serif:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Hind:300,regular,500,600,700&display=swap');
+/* ОБНУЛЕНИЕ СТИЛЕЙ */
+@import "_null";
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	box-sizing: border-box;
+}
+li {
+	list-style: none;
+}
+a,
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: inherit;
+	font-size: inherit;
+}
+img {
+	vertical-align: top;
+}
+html,
+body {
+	height: 100%;
+}
+html {
+	scroll-behavior: smooth;
+}
+body {
+	line-height: 1;
+	font-family: 'IBM Plex Serif';
+	background: #F5F5F5
+}
+.wrapper {
+	min-height: 100%;
+	overflow: hidden;
+	display: flex;
+	flex-direction: column;
+}
+
+
+
+[class*="__container"] {
+	max-width: 1145px;
+	margin: 0px auto;
+	padding: 0px 15px;
+}
+
+
+.header {
+    
+}
+.main {
+	flex: 1 1 auto;
+	
+} 
+
+/* ============================================================== */
+
+
+
+
+
+
+
