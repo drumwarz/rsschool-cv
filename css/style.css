@@ -580,3 +580,38 @@ body {
   color: #212121;
   opacity: 0.6;
 }
+
+.wrapper .footer {
+  background-color: #212121;
+  padding: 15px 0 5px 0;
+}
+
+.wrapper .footer__links {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-column-gap: 50px;
+          column-gap: 50px;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.wrapper .footer__link-dw {
+  -webkit-transform: translate(0px, 2px);
+      -ms-transform: translate(0px, 2px);
+          transform: translate(0px, 2px);
+}
+
+.wrapper .footer__text {
+  font-family: 'Hind';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: -0.2px;
+  margin: 5px 30px 0 0;
+  text-align: center;
+  color: #f5f5f577;
+}

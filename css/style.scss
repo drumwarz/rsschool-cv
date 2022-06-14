@@ -589,6 +589,64 @@ body {
 }
 }
 
+.footer {
+	background-color: #212121;
+	padding: 15px 0 5px 0;
+	// .footer__container
+
+	&__container {
+	}
+
+	// .footer__body
+
+	&__body {
+		
+	}
+
+	// .footer__links
+
+	&__links {
+		display: flex;
+		 column-gap: 50px;
+		justify-content: space-around;
+		align-items: center;
+	}
+
+	// .footer__link-rs
+
+	&__link-rs {
+	}
+
+	// .footer__img
+
+	&__img {
+	}
+
+	// .footer__link-gh
+
+	&__link-gh {
+
+	}
+
+	// .footer__link-dw
+
+	&__link-dw {
+		transform: translate(0px, 2px);
+	}
+
+	// .footer__text
+
+	&__text {
+		font-family: 'Hind';
+		font-style: normal;
+		font-weight: 400;
+		font-size: 14px;
+		letter-spacing: -0.2px;
+		margin: 5px 30px 0 0;
+		text-align: center;
+		color: #f5f5f577;
+	}
+}
 }
 
 
